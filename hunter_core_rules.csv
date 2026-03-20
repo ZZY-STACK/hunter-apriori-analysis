@@ -1,0 +1,11 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'pasta sauce'}),frozenset({'dry pasta'}),0.02128794750040015,0.32151490733279614,4.164584594428886
+frozenset({'dry pasta'}),frozenset({'pasta sauce'}),0.02128794750040015,0.2757429163787146,4.164584594428886
+frozenset({'canned jarred vegetables'}),frozenset({'canned meals beans'}),0.019900762951501894,0.261938202247191,3.514321921774589
+frozenset({'canned meals beans'}),frozenset({'canned jarred vegetables'}),0.019900762951501894,0.26700071581961343,3.5143219217745885
+frozenset({'preserved dips spreads'}),frozenset({'chips pretzels'}),0.01701968734994398,0.47050147492625366,2.6379327384214095
+frozenset({'spices seasonings'}),frozenset({'fresh herbs'}),0.013498372725817638,0.24280230326295585,2.5198469380163795
+frozenset({'fruit vegetable snacks'}),frozenset({'energy granola bars'}),0.011631008909993064,0.23191489361702128,2.501024655387704
+frozenset({'canned jarred vegetables'}),frozenset({'soup broth bouillon'}),0.016379448327375555,0.21558988764044945,2.4989494520995326
+frozenset({'canned jarred vegetables'}),frozenset({'fresh herbs'}),0.017926692631915916,0.23595505617977527,2.4487849490462503
+frozenset({'breakfast bakery'}),frozenset({'other creams cheeses'}),0.017393160113108895,0.2284512964260687,2.442591357052941
