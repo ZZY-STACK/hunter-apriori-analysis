@@ -1,4 +1,4 @@
-treamlit==1.36.0
+streamlit==1.36.0
 pandas==2.2.2
 numpy==2.1.0
 mlxtend==0.24.0
