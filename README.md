@@ -38,7 +38,7 @@
 
 3. 运行应用
    ```bash
-   streamlit run app.py
+   streamlit run hunter_apriori_app.py
    ```
 
 ### 在线体验
